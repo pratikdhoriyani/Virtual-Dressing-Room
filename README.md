@@ -3,7 +3,7 @@ Virtual Dressing Room is an augmented reality dressing room where user or custom
 
 Virtual Dressing Room is an augmented reality dressing room where the image of the user is captured by the webcam or any other camera and given as an input. By using the face and body detection techniques, the video is scanned for the presence of human faces and then product images are masked. Now the masked image is superimposed and the user can see the images of the dresses and face accessories on them self.
 
-<h3>Project Setup Process :</h3>
+<h2>Project Setup Process :</h2>
 
 <h3>Step 1:</h3> 
 Please install any Python Environment or IDE such as Anaconda...<br>
